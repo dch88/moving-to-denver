@@ -12,3 +12,8 @@ h1 {
 img {
     margin-bottom: 20px;
 }
+
+.float {
+    float: right;
+    margin-left: 40px;
+}
