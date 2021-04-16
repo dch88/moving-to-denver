@@ -17,3 +17,10 @@ img {
     float: right;
     margin-left: 40px;
 }
+
+
+    .resp {
+        max-width: 40%;
+        min-width: 600px
+    }
+
