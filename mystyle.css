@@ -19,8 +19,7 @@ img {
 }
 
 
-    .resp {
-        max-width: 40%;
-        min-width: 600px
-    }
+.resp {
+    max-width: 600px
+}
 
